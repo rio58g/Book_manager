@@ -1,4 +1,4 @@
-package com.skorniychuk.newbookmanager;
+package com.skorniychuk.newbookmanager.repository;
 
 
 import com.skorniychuk.newbookmanager.domain.Book;
